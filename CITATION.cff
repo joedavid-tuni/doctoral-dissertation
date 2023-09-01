@@ -14,10 +14,11 @@ preferred-citation:
   - family-names: "David"
     given-names: "Joe"
     orcid: "https://orcid.org/0000-0003-4651-0164"
-  title: ""
+  title: "A Design Science Research Approach to Architecting and Developing Information Systems for Collaborative Manufacturing: A Case for Human-Robot Collaboration"
   year: 2023
   isbn: "978-952-03-3064-4"
   issn: "2490-0028"
   publisher:
     name: "Tampere University"
   url: "http://urn.fi/URN:ISBN:978-952-03-3064-4"
+  
