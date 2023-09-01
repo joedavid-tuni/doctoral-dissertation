@@ -4,10 +4,9 @@ authors:
 - family-names: David
   given-names: Joe
   orcid: "https://orcid.org/0000-0003-4651-0164"
-year: '2023'
+year: 2023
 institution:
-  name: Fanstord University
-  address: Department of French
+  name: Tampere University
 thesis-type: PhD Thesis
 isbn: "978-952-03-3064-4"
 issn: "2490-0028"
