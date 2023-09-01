@@ -8,7 +8,7 @@ title: "Meta Repository for Joe David's PhD Dissertation"
 version: 0.1.0
 date-released: 2023-09-01
 preferred-citation:
-  thesis-type: PhD thesis
+  thesis-type: "PhD thesis"
   type: thesis
   authors:
   - family-names: "David"
