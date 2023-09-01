@@ -8,7 +8,7 @@ title: "Meta Repository for Joe David's PhD Dissertation"
 version: 0.1.0
 date-released: 2023-09-01
 preferred-citation:
-  thesis-type: "PhD thesis"
+  thesis-type: PhD thesis
   type: generic
   authors:
   - family-names: "David"
@@ -18,5 +18,6 @@ preferred-citation:
   year: 2023
   isbn: "978-952-03-3064-4"
   issn: "2490-0028"
-  publisher: "Tampere University"
+  publisher:
+    name: "Tampere University"
   url: "http://urn.fi/URN:ISBN:978-952-03-3064-4"
