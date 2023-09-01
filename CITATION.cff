@@ -1,23 +1,16 @@
-cff-version: 1.2.0
-message: "If you use or extend the application, especially in academic context, please consider citing."
+type: thesis
+title: 'A Design Science Research Approach to Architecting and Developing Information Systems for Collaborative Manufacturing: A Case for Human-Robot Collaboration'
 authors:
-- family-names: "David"
-  given-names: "Joe"
+- family-names: David
+  given-names: Joe
   orcid: "https://orcid.org/0000-0003-4651-0164"
-title: "Meta Repository for Joe David's PhD Dissertation"
-version: 0.1.0
-date-released: 2023-09-01
-preferred-citation:
-  - type: thesis
-    thesis-type: PhD
-    authors:
-    - family-names: "David"
-      given-names: "Joe"
-      orcid: "https://orcid.org/0000-0003-4651-0164"
-    title: "A Design Science Research Approach to Architecting and Developing Information Systems for Collaborative Manufacturing: A Case for Human-Robot Collaboration"
-    year: 2023
-    isbn: "978-952-03-3064-4"
-    issn: "2490-0028"
-    publisher:
-      name: "Tampere University"
-    url: "http://urn.fi/URN:ISBN:978-952-03-3064-4"
+year: '2023'
+institution:
+  name: Fanstord University
+  address: Department of French
+thesis-type: PhD Thesis
+isbn: "978-952-03-3064-4"
+issn: "2490-0028"
+publisher:
+  name: "Tampere University"
+url: "http://urn.fi/URN:ISBN:978-952-03-3064-4"
