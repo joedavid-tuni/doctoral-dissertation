@@ -9,7 +9,7 @@ version: 0.1.0
 date-released: 2023-09-01
 preferred-citation:
   thesis-type: PhD thesis
-  type: generic
+  type: thesis
   authors:
   - family-names: "David"
     given-names: "Joe"
