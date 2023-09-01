@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use or extend the application, especially in academic context, please consider citing."
+authors:
+- family-names: "David"
+  given-names: "Joe"
+  orcid: "https://orcid.org/0000-0003-4651-0164"
+title: "Meta Repository for Joe David's PhD Dissertation"
+version: 0.1.0
+date-released: 2023-09-01
+preferred-citation:
+  thesis-type: "PhD thesis"
+  type: generic
+  authors:
+  - family-names: "David"
+    given-names: "Joe"
+    orcid: "https://orcid.org/0000-0003-4651-0164"
+  title: "A Design Science Research Approach to Architecting and Developing Information Systems for Collaborative Manufacturing: A Case for Human-Robot Collaboration"
+  year: 2023
+  isbn: "978-952-03-3064-4"
+  issn: "2490-0028"
+  publisher: Tampere University
+  url: "http://urn.fi/URN:ISBN:978-952-03-3064-4"
